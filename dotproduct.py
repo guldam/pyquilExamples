@@ -1,6 +1,7 @@
 """
-implementation of the swap test
-avaiable even if two registers have different length
+implementation of the swap test and dotproduct
+Refer <Understanding Quantum Support Vector Machine> written by Petter Witteck
+https://peterwittek.com/understanding-quantum-svms.html
 """
 import numpy as np
 from pyquil.quil import Program
